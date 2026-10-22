@@ -1,0 +1,14 @@
+{
+  "name": "CREART · Pablo, escultor de Tuluá",
+  "short_name": "CREART",
+  "description": "Portafolio de Pablo, el joven escultor de Tuluá detrás de la India Carmelita y las esculturas del Mirador Puertas del Sol.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14110f",
+  "theme_color": "#14110f",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
